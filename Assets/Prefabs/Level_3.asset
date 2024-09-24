@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8bf8df9de93642b9a9ee7adb9263548, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  LevelNumber: 0
+  Powers:
+  - CardClass: 1
+    Power: 20
+    Stamina: 10
+    Luck: 0.3
+    Image: {fileID: 21300000, guid: 2ba5a0e0a4d5e3f44a880c6b991e2e1c, type: 3}
+  - CardClass: 2
+    Power: 70
+    Stamina: 20
+    Luck: 0.5
+    Image: {fileID: 21300000, guid: bd6f6a3f5650bb248a3b827a42970170, type: 3}
+  - CardClass: 0
+    Power: 20
+    Stamina: 20
+    Luck: 0.2
+    Image: {fileID: 21300000, guid: d7bbb7c656ad9d546b6c83cd088dbd90, type: 3}
+  - CardClass: 0
+    Power: 10
+    Stamina: 10
+    Luck: 0.5
+    Image: {fileID: 21300000, guid: 992e99a1d8fbc28488b164e5ad655e56, type: 3}
+  - CardClass: 1
+    Power: 20
+    Stamina: 10
+    Luck: 0.2
+    Image: {fileID: 21300000, guid: 8c2c742b14afebe46b3227ef7011efa0, type: 3}
+  - CardClass: 2
+    Power: 50
+    Stamina: 10
+    Luck: 0.3
+    Image: {fileID: 21300000, guid: 02a9034d567562a4286c12d3908fc89b, type: 3}
